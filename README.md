@@ -8,8 +8,3 @@
  4. Draw a mask on the image to apply filter to area enclosed within the mask
  5. Blurring an image
 
-## Screens
-![Screenshot](Prettify_Screenshot_1.png)
-![Screenshot](Prettify_Screenshot_2.png)
-![Screenshot](Prettify_Screenshot_3.png)
-![Screenshot](Prettify_Screenshot_4.png)
