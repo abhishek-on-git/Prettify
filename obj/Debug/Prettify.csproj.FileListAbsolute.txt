@@ -1,0 +1,10 @@
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\bin\Debug\Prettify.exe.config
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\bin\Debug\Prettify.exe
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\bin\Debug\Prettify.pdb
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.Properties.Resources.resources
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.exe
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.pdb
+D:\Visual Studio\Projects\Image Editor\Prettify\Prettify\obj\Debug\Prettify.Prettify.resources
